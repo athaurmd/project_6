@@ -23,7 +23,7 @@
     2hours
 
  ### Live link of the project    
-[Netlify](https://62efbaa845349f190539b573--homepage-landing-websites.netlify.app/)
+[Netlify](monsterra-webpage.netlify.app)
 
 
 
